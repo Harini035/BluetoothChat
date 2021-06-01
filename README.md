@@ -1,1 +1,4 @@
-# BluetoothChat
+
+Android BluetoothChat Sample
+============================
+
